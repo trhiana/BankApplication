@@ -1,7 +1,11 @@
 # Bank Application
 A simple banking application to check the balance, deposit, withdraw, e.t.c on a bank account.  
 
-## Technologies
+## Built With
 * Java 8
 
-## How to use
+## Description
+
+<!-- ![alt text](http://url/to/img.png) -->
+
+# Acknowledgements

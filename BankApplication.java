@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class BankApplication{
     public static void main(String[] args) {
         BankAccount obj = new BankAccount ("Rhiana", "A0108");
-        obj1.showMenu();
+        obj.showMenu();
     }
 }
 
