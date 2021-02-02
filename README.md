@@ -18,4 +18,5 @@ Once the customer name and customer Id are added to the main method, the applica
 
 ## Acknowledgements
 The goal was to gain knowledge on the basics of Java i.e. the Scanner class, if/else statements, methods, printing and variables.
+
 I followed a tutorial by [**Help People** ](https://www.youtube.com/watch?v=wQbEH4tVMJA&t=1030s)
