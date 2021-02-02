@@ -1,16 +1,17 @@
 # Bank Application
-A simple banking application to check the balance, deposit, withdraw, e.t.c on a bank account.  
+A simple banking application that allows a user to check balance, deposit, withdraw and check previous transactions
+of their bank account.  
 
 ## Built With
 * Java 8
 
 ## Description
+Once the customer name and customer Id are added to the main method, the application will display the menu
 
-<!-- ![alt text](http://url/to/img.png) -->
 ![Menu](/readme_images/menu.png)
 
 
 ## Future scope
-* Implement with GUI
+* Add an interface
 
 ## Acknowledgements
