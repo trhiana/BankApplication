@@ -7,7 +7,7 @@ A simple banking application to check the balance, deposit, withdraw, e.t.c on a
 ## Description
 
 <!-- ![alt text](http://url/to/img.png) -->
-
+![Menu](/readme/menu.png)
 
 
 ## Future scope
