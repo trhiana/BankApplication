@@ -8,4 +8,9 @@ A simple banking application to check the balance, deposit, withdraw, e.t.c on a
 
 <!-- ![alt text](http://url/to/img.png) -->
 
-# Acknowledgements
+
+
+## Future scope
+* Implement with GUI
+
+## Acknowledgements
