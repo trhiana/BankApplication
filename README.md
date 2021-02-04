@@ -36,6 +36,9 @@ If the user selects opstion E, the application shows a farewell message and exit
 
 ![Previous Transaction](/readme_images/E.png)
 
+The application accepts only uppercase letters, so when a user selects an options but types a letter or a value that is not an alphabetical uppercase letter, the application returns a message as shown below
+
+![Invalid](/readme_images/invalid.png)
 
 ## Future scope
 * Add an interface
