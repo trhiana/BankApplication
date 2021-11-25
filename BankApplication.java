@@ -1,6 +1,6 @@
 /**
  * @author Rhiana Thelemaque
- * Developed following a tutorial by Help People
+ * Developed with guidance from Help People
  */
 
 
